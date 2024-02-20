@@ -10,7 +10,7 @@ Lijst alle teamleden op met hun GitHub gebruikersnaam:
 
 | Name      | GitHub username                         |
 | :-------- | :-------------------------------------- |
-| Student 1 | [username](https://github.com/username) |
+| Student 1 | [username](https://github.com/GauthierVdp) |
 | Student 2 | [username](https://github.com/username) |
 | Student 3 | [username](https://github.com/username) |
 | Student 4 | [username](https://github.com/username) |
